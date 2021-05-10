@@ -1,1 +1,1 @@
-# Faveo-Helpdesk-German
+# Faveo Helpdesk - Translation [German]
